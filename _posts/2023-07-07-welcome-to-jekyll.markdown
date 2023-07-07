@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2023-07-07 12:50:53 +0700
 categories: jekyll update
+katex: true
 ---
 
 $$1 + 2 = x$$
