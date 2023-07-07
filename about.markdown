@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+katex: true
 ---
 
 $$ e \approx 2.71 $$
