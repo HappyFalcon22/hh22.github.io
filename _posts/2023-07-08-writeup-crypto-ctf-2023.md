@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writeup CryptoCTF 2023
+title: "Writeup CryptoCTF 2023"
 date: 2023-07-08 8:50:53 +0700
 categories: ctf writeup
 ---
