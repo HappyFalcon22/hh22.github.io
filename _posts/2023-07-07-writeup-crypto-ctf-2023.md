@@ -48,10 +48,10 @@ In reality, I kinda discovered something interesting before understanding it, ho
 
 We have these constraints :
 \\[ C_6e - C_7d = O_3 \\]
-$$ M = C_0p - C_1q $$
-$$ N = C_2q - C_3r $$
-$$ P = C_4r - C_5p $$
-$$ M^e + N^e + P^e = dMNP $$
+\\[ M = C_0p - C_1q \\]
+\\[ N = C_2q - C_3r \\]
+\\[ P = C_4r - C_5p \\]
+\\[ M^e + N^e + P^e = dMNP \\]
 
 ## Barak
 
