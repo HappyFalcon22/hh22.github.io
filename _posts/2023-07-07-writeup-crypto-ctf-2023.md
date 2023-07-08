@@ -8,13 +8,13 @@ katex: true
 
 I joined ***BKISC*** team to play CryptoCTF 2023 and finished ***24th*** place.
 
-![Result](../assets/images/Result.png)
+![Result](/assets/images/Result.png)
 
 I completed $3$ challs from the Medium category
 
 ## Derek
 
-> Detective [Derik](../challenges/Crypto%20CTF%202023/Derek/Derik.py) possessed an uncanny ability to unravel complex puzzles, his razor-sharp mind weaving through the intricate threads of mystery with effortless precision. ([Output.txt](../challenges/Crypto%20CTF%202023/Derek/output.txt))
+> Detective [Derik](/challenges/Crypto%20CTF%202023/Derek/Derik.py) possessed an uncanny ability to unravel complex puzzles, his razor-sharp mind weaving through the intricate threads of mystery with effortless precision. ([Output.txt](/challenges/Crypto%20CTF%202023/Derek/output.txt))
 
 The source code is rather short 
 
