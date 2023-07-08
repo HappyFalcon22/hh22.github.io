@@ -47,7 +47,7 @@ This is RSA encryption using $5$ primes $e, d, p, q, r$, with a public exponent 
 In reality, I kinda discovered something interesting before understanding it, how ?
 
 We have these constraints :
-$$ C_6e - C_7d = O_3 $$
+\\[ C_6e - C_7d = O_3 \\]
 $$ M = C_0p - C_1q $$
 $$ N = C_2q - C_3r $$
 $$ P = C_4r - C_5p $$
