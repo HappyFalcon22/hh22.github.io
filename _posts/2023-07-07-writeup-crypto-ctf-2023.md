@@ -3,7 +3,7 @@ layout: post
 title: "Writeup CryptoCTF 2023"
 date: 2023-07-07 20:40:53 +0700
 categories: ctf writeup
-katex: false
+katex: true
 ---
 
 I joined ***BKISC*** team to play CryptoCTF 2023 and finished ***24th*** place.
